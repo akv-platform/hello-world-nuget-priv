@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>hello_world_nuget_priv</RootNamespace>
+    <Authors>mmulhearn</Authors>
+  </PropertyGroup>
+
+</Project>
